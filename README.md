@@ -8,6 +8,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/googleanalytics/google-analytics-mcp?style=social)](https://github.com/googleanalytics/google-analytics-mcp/network/members)
 [![YouTube Video Views](https://img.shields.io/youtube/views/PT4wGPxWiRQ)](https://www.youtube.com/watch?v=PT4wGPxWiRQ)
 
+> **Nota del fork `GiacomoGal/google-analytics-mcp`.** Il corpo di questo README, dalla frase successiva fino alla fine del file, è il testo umano già presente nel checkout e resta la fonte delle affermazioni sul server. Si legge insieme a [`AGENTS.md`](AGENTS.md). Uso attuale, account Google e installazione di questo fork sono unknown. Il campo descrizione del repository è assente. Lo stato indicato dall'inventario di incarico è UNMAPPED e unresolved: questa nota non attesta un servizio attivo. Prompt, query, comandi e claim di esempio citati sotto restano esempi del testo upstream in questo checkout. Non sono una policy aggiunta da questo fork e non sono un'autorizzazione su un account Google, su credenziali o sulle API Analytics. English: the body below is preserved wording from this fork checkout. Sample prompts and commands are not fork policy and do not authorize a Google account.
+
 This repo contains the source code for running a local
 [MCP](https://modelcontextprotocol.io) server that interacts with APIs for
 [Google Analytics](https://support.google.com/analytics).
