@@ -12,7 +12,7 @@ Data della lettura: 2026-11-07. Base del checkout: `c3a6cad432881d911c26429a40dc
 - Campo descrizione del repository, letto dall'API pubblica GitHub il 2026-11-07: vuoto. L'inventario di incarico segna la descrizione come assente. Lo scopo non viene ricostruito oltre la frase del README citata sotto.
 - Inventario di incarico, lotto 6 sezione 3, mandato documentale t127u: `identity_proven=false`, `unknowncurrentuse=true`, `nextdocscope=unresolved`, `identity_evidence` vuoto, proposte ed execution receipt vuoti, etichetta UNMAPPED. Quel ref inventario `main` non prova allineamento a un host.
 - L'API pubblica, nello stesso giorno, mostra un fatto più stretto: il repository è un fork pubblico, default branch `main`, archived false, parent `googleanalytics/google-analytics-mcp`. L'origine git configurata in questo workspace punta a `github.com/GiacomoGal/google-analytics-mcp`. Questo prova l'identità configurata del checkout. Non prova canonicità operativa, sync, uso, installazione o un account.
-- Conflitto di fonti, lasciato aperto: l'inventario dichiara nessuna associazione per nome a servizi o repository omonimi; l'API dichiara il parent upstream omonimo. Nessuna delle due fonti è una decisione di lifecycle. `executed` non risulta da questo lavoro.
+- Il parent `googleanalytics/google-analytics-mcp` e il behind 57 sono identità genealogica del fork. Convivono con l'etichetta inventario UNMAPPED: uso attuale, account, installazione e identità VPS restano unknown. Questa compresenza non è un'associazione operativa né una decisione di lifecycle. `executed` non risulta da questo lavoro.
 - Questa guida non è un PASS documentale. Una review indipendente resta necessaria.
 
 ## Frase di scopo presente nel README
